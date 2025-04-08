@@ -1,7 +1,5 @@
 # **🎮 FROM PLAYTIME TO PROFIT: UNLOCKING THE POWER OF PLAYER DATA 🧮**
 
----
-
 ## 🎯 OBJECTIVE
 
 In today's competitive gaming industry, keeping players engaged while maximizing in-game purchases is crucial for a game's success.
