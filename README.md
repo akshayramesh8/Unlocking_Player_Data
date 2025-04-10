@@ -638,8 +638,11 @@ This analysis paints a compelling picture of a **mature, engaged, and diverse ga
 Our opportunity lies in:
 
 👉 Fine-tuning monetization strategies based on player type (casual vs. hardcore),
+
 👉 Rewarding loyalty and feedback from our core audience,
+
 👉 Revamping underperforming genres like RPG,
+
 👉 Designing smarter engagement strategies that align with actual player behavior — **not assumptions**.
 
 ---
