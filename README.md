@@ -12,8 +12,9 @@ As a Business Analyst, I will dive deep into a gaming dataset to uncover key ins
 
 ## 🗂️ DATASET
 
-The gaming dataset for this project has been sourced from [Kaggle](https://www.kaggle.com/datasets/rabieelkharoua/predict-online-gaming-behavior-dataset?resource=download).
 <sup><sub>DISCLAIMER: This fictional dataset is intended for illustrative analysis of gaming behaviors.</sup></sub>
+
+The gaming dataset for this project has been sourced from [Kaggle](https://www.kaggle.com/datasets/rabieelkharoua/predict-online-gaming-behavior-dataset?resource=download).
 It consists of two tables:
 1. ```gamers_info```: Contains all the descriptive information of the gamers.
 
