@@ -2,9 +2,7 @@
 
 ## 🎯 OBJECTIVE
 
-In today's competitive gaming industry, keeping players engaged while maximizing in-game purchases is crucial for a game's success.
-
-This project simulates a real-world situation faced by a mid-sized gaming company preparing to launch a new cross-genre platform.
+In today's competitive gaming industry, keeping players engaged while maximizing in-game purchases is crucial for a game's success. This project simulates a real-world situation faced by a mid-sized gaming company preparing to launch a new cross-genre platform.
 
 As a Business Analyst, I will dive deep into a gaming dataset to uncover key insights on user behavior patterns and engagement levels, identifying actionable opportunities to enhance player retention and craft smarter monetization strategies that drive business growth.
 
@@ -43,9 +41,9 @@ It consists of two tables:
 ---
 
 ## 🛠️ TOOLS USED
-- **PostgreSQL**: Relational database tool, used to query commands
-- **VSCode**: Version control software, used to execute scripts
-- **ChatGPT**: AI tool, for automation and readability assistance
+- **PostgreSQL**: Relational database management system, used to query commands
+- **Visual Studio Code**: Version control software, used to execute query scripts
+- **ChatGPT-4o mini**: AI tool, for automation and readability assistance
 
 ---
 
@@ -79,7 +77,7 @@ It consists of two tables:
 
 ---
 
-### 🧵 Analytical Framework Used
+### 🧵 Analytical Framework Used - SQAR
 To structure this project effectively, I’ve used the '**SQAR**' framework (Situation, Questions, Answers, Results), inspired by the popular STAR format. I will first set the stage with a hypothetical situation where this analysis is relevant, then define key business questions, answer them using efficient SQL queries, and finally present the results in a clear and actionable way.
 
 ---
@@ -150,11 +148,11 @@ To deeply understand player behavior, engagement patterns, and monetization oppo
 ### 🔗Deep Correlation & Relationship Analysis
 1. Is there a relationship between session duration and player level progression?
 
-2. How does player engagement, measured by average playtime, differ across genres—and how does it align with purchase behavior?
+2. How does player engagement, measured by average playtime, differ across genres?
 
-3. For each genre, how do playtime and engagement levels differ between players who have made purchases and those who haven't?
+3. How does perceived game difficulty influence player engagement and long-term retention?
 
-4. How does perceived game difficulty influence player engagement and long-term retention?
+4. For each genre, how do playtime and engagement levels differ between players who have made purchases and those who haven't?
 
 5. What factors drive achievement unlocking: total playtime, session frequency, or player experience level?
 
