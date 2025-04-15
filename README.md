@@ -41,9 +41,13 @@ It consists of two tables:
 ---
 
 ## 🛠️ TOOLS USED
-- **PostgreSQL**: Relational database management system, used to query commands
-- **Visual Studio Code**: Version control software, used to execute query scripts
+- **PostgreSQL**: Relational database management system
+- **pgAdmin 4**: Open-source administration and development platform for PostgreSQL
+- **Visual Studio Code**: Version control software, to execute query scripts
+- **Obsidian**: Note-taking application, used as repository for project content
 - **ChatGPT-4o mini**: AI tool, for automation and readability assistance
+- **Canva**: Graphic design platform, to create a visualized snapshot of this project
+- **GitHub**: Version control web interface, to house this project
 
 ---
 
